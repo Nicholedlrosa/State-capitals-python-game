@@ -18,3 +18,4 @@ To play the game:
 
 - In  order to play, you must have a program to open the game in (I use VS Code).
 - Python must be installed. To do this, downlaod the binaries, run the installer, and lastly, add Python to environmental vairables. You can do this from the command line.
+- Fork and clone. Have fun!
